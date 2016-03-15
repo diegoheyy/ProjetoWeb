@@ -53,3 +53,5 @@ Temporary Items
 .settings/org.eclipse.jdt.core.prefs
 *.jsdtscope
 *.project
+mysql-connector-java-5.0.8-bin.jar
+WebContent/WEB-INF/web.xml
